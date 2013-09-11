@@ -1,0 +1,18 @@
+ADMIN:
+  email: 'admin@synctv.com'
+  password: 'zklAu89q'
+USER:
+  email: 'ident2@tf1.fr'
+  password: 'ident2'
+USER10:
+  email: 'ident10@tf1.fr'
+  password: 'ident10'
+USERRAJ:
+  email: 'raj@synctv.com'
+  password: 'rajesh'
+CPW:
+  email: 'cpw@synctv.com'
+  password: '5ynCPW!'
+#ADMIN:
+#  EMAIL: 'ingest@synctv.com'
+#  PASS: '1ng3st!'
